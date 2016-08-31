@@ -12,8 +12,8 @@
         }
     ],
     "support": {
-        "email": "allure@yandex-team.ru",
-        "source": "https://github.com/allure-framework/allure-codeception"
+        "email": "fatumm@gmail.com",
+        "source": "https://github.com/lormdx/allure-codeception"
     },
     "require": {
 	"php": ">=5.4.0",
